@@ -1,2 +1,2 @@
 # trailerapiClass
-Easily use of TrailerAPI Class
+PHP Class for TrailerAPI
